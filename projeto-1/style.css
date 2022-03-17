@@ -43,8 +43,8 @@ main{
 
 p{
     text-align: center;
-    margin-bottom: 7px; /*margem pra baixo*/
-    line-height: 23px;  /* espaçamento entre linhas */
+    margin-bottom: 7px;
+    line-height: 23px;  
 }
 
 .link{
