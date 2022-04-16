@@ -13,10 +13,9 @@ body{
 main{
     display: flex;
     width: auto;
-    height: 620px;
+    height: 608px;
     justify-content: center;
     flex-direction: column;
-
 }
 
 .card{
@@ -47,7 +46,3 @@ p{
     line-height: 23px;  
 }
 
-.link{
-    color: rgb(35, 35, 197);
-    text-decoration: none;
-}
